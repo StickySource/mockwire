@@ -1,7 +1,22 @@
-# mockwire
-Testing components like they run in production using annotated contexts for components.
+# MockWire
 
-To run a test using Mockwire, use @RunWith(MockwireRunner.class).
+Testing components like they run in production 
+
+## Background 
+
+Using IOC Containers we end up writing components. Components are classes that have their dependencies injected.
+
+The wrangling required to setup IOC contexts can be honerous and complicated.
+
+MockWire takes a very simple approach, the test class is a manifest of the DI context, as a developer this makes it very clear and obvious whats actually being tested.
+
+## Usage
+
+### Junit
+
+To run a test using Mockwire, use @RunWith(MockwireRunner.class)
+
+### Testng
 
 Two base uses for testing. 
 
