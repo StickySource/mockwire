@@ -1,0 +1,27 @@
+[submodule "sticky-mockwire"]
+	path = sticky-mockwire
+	url = git@github.com:StickySource/sticky-mockwire.git
+[submodule "sticky-mockwire-junit"]
+	path = sticky-mockwire-junit
+	url = git@github.com:StickySource/sticky-mockwire-junit.git
+[submodule "sticky-mockwire-tck"]
+	path = sticky-mockwire-tck
+	url = git@github.com:StickySource/sticky-mockwire-tck
+[submodule "sticky-mockwire-jmockit"]
+	path = sticky-mockwire-jmockit
+	url = git@github.com:StickySource/sticky-mockwire-jmockit
+[submodule "sticky-mockwire-testng"]
+	path = sticky-mockwire-testng
+	url = git@github.com:StickySource/sticky-mockwire-testng
+[submodule "sticky-mockwire-guice3"]
+	path = sticky-mockwire-guice3
+	url = git@github.com:StickySource/sticky-mockwire-guice3
+[submodule "sticky-mockwire-api"]
+	path = sticky-mockwire-api
+	url = git@github.com:StickySource/sticky-mockwire-api
+[submodule "sticky-mockwire-mockito"]
+	path = sticky-mockwire-mockito
+	url = git@github.com:StickySource/sticky-mockwire-mockito
+[submodule "sticky-mockwire-spring3"]
+	path = sticky-mockwire-spring3
+	url = git@github.com:StickySource/sticky-mockwire-spring3
